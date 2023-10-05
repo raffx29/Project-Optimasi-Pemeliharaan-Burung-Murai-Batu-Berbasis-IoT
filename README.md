@@ -23,6 +23,7 @@ Dengan menggunakan teknologi IoT dalam pemeliharaan burung murai batu, masyaraka
 * Buzzer
 
 ## Skematik Rangkaian Komponen
+![Logo](https://github.com/raffx29/Project-Optimasi-Pemeliharaan-Burung-Murai-Batu-Berbasis-IoT/blob/e354a753c8d52312e71a0a91e513582f81a7b5a5/LIB/Skematik.jpg)
 
 Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | Komponen | Pin GPIO    |
@@ -569,5 +570,8 @@ void loop() {
 ```
 
 ## Tampilan Alat
+![Logo](https://github.com/raffx29/Project-Optimasi-Pemeliharaan-Burung-Murai-Batu-Berbasis-IoT/blob/e354a753c8d52312e71a0a91e513582f81a7b5a5/LIB/IMG_0870.JPG)
+![Logo](https://github.com/raffx29/Project-Optimasi-Pemeliharaan-Burung-Murai-Batu-Berbasis-IoT/blob/e354a753c8d52312e71a0a91e513582f81a7b5a5/LIB/IMG_0873.JPG)
 
 ## Interface Aplikasi
+![Logo](https://github.com/raffx29/Project-Optimasi-Pemeliharaan-Burung-Murai-Batu-Berbasis-IoT/blob/e354a753c8d52312e71a0a91e513582f81a7b5a5/LIB/3.jpg)
