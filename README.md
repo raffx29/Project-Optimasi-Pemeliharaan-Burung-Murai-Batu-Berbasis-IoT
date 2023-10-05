@@ -24,7 +24,6 @@ Dengan menggunakan teknologi IoT dalam pemeliharaan burung murai batu, masyaraka
 
 ## Skematik Rangkaian Komponen
 ![Logo](https://github.com/raffx29/Project-Optimasi-Pemeliharaan-Burung-Murai-Batu-Berbasis-IoT/blob/e354a753c8d52312e71a0a91e513582f81a7b5a5/LIB/Skematik.jpg)
-
 Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | Komponen | Pin GPIO    |
 | :-------- | :------- |
